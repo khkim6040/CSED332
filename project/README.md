@@ -87,6 +87,16 @@ Iteration 2 <span dir="">\~</span> (Period 2)
 - Our project detects common code smells such as long methods, large classes, duplicated code etc. Addressing these will enable users to maintain clean and well-organized code in their projects.
 - When the user runs the plugin by clicking "Code Scent" tab, "Analyze", "Analyze All", and "Customization" tabs appear in the bottom left corner. Clicking the 'Analyze' button triggers the plugin to scan for code smells in the current opened file. The plugin then displays the results line by line in the bottom window as a tree structure. Clicking on a message highlights the corresponding lines of code while double-clicking shifts the user's screen focus directly to the related code segment.
 
+## Wiki
+
+https://github.com/khkim6040/CSED332/assets/83526533/dad75e8a-8fed-4e7b-a98d-02cbd52c773d
+
+## Demo
+
+https://github.com/khkim6040/CSED332/assets/83526533/6573d0b6-5180-4c14-8745-319980e16b85
+
 ## Final Report 
 
 See our [final plug-in report](4nix_Final_Report.pdf) 
+
+
